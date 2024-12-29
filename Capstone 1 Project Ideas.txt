@@ -1,0 +1,16 @@
+Capstone 1 Project Ideas
+
+CatTail (PetTail?)-
+API: look at Instagram and Facebook to make own(?)
+
+Similar to main stream social media like Facebook/Instagram, but you can make multiple "mini users" of your cats. Each mini user can have their own profile picture, bio blurb, birthday, and other fun facts on their page. Along with that, you can upload a picture and have it appear only on a specific mini user's page and it will not show up on the other mini users you have. Or, if you select multiple mini users, the picture will show up on all the profiles chosen.
+
+Activity Ideas-
+API: Weather, Air Quality, Time, Location
+
+Based on the weather, time, and air quality of the location chosen, you get a random list of potential activities to do for the day. You can add them to a tracker for you to check off and organize later. If possible, integrate with an AI to produce dynamic responses based on the results from the APIs. Also, add tags to toggle specific activities to focus on, like indoor vs outdoor.
+
+Cardathon-
+API: Card Deck
+
+A game in which you must add or subtract 3 cards from 5 pulled from the deck to equal the number given. The rules change depending on the round, such as only being able to add once, how many cards can be drawn, must use only a specific suit, negative numbers, etc. This will focus more on interactivity: being able to change the operations, drag and dropping cards onto a game area, cards being pulled out of the deck, etc.
