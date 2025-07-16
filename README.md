@@ -2,4 +2,4 @@
 
 <hr>
 
-This is a work in progress and currently is in its proposal state.
+This is a work in progress and currently is in its bare-bones creation state.
